@@ -20,6 +20,12 @@ wheels/
 *.egg
 PIPFILE.lock
 
+# uv
+uv.lock
+
+# Poetry (legacy)
+poetry.lock
+
 # Database
 *.db
 *.sqlite
